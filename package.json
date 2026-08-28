@@ -14,6 +14,7 @@
   "types": "dist/spector.d.ts",
   "files": [
     "dist/spector.bundle.js",
+    "dist/spector.worker.bundle.js",
     "dist/spector.d.ts"
   ],
   "author": "@SpectorJS",
